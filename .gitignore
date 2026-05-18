@@ -37,3 +37,12 @@ local.properties
 .swp
 ehthumbs.db
 Thumbs.db
+
+# Signing keys
+*.keystore
+*.jks
+key.properties
+
+# Build outputs
+/build
+/app/build
